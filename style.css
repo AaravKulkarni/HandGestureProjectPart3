@@ -1,0 +1,23 @@
+body{
+    background-color: #c0d3ff;
+}
+.heading{
+    font-size: 20px;
+  border-radius: 10px;
+}
+#camera, #result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+label{
+    font-size: 14px;
+    color: green;
+    border-radius: 10px;
+    padding: 6px;
+    background-color: white;
+}
+#handgesturename, #handgetureemoji, #handgesturename2, #handgestureemoji2{
+    font-weight: bolder;
+    font-size: 25px;
+}
